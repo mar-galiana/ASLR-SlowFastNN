@@ -1,6 +1,6 @@
-#  PROJECT CONCLUSSIONS
+#  PROJECT CONCLUSIONS
 
-this project has made significant strides in the field of Sign Language Recognition (SLR) by conducting rigorous experiments and implementing advanced models. The primary focus was on two models: the 3DCNN and the SlowFast Neural Network, with the overarching goal of advancing the accuracy of Sign Language Recognition.
+This project has made significant strides in the field of Sign Language Recognition (SLR) by conducting rigorous experiments and implementing advanced models. The primary focus was on two models: the 3DCNN and the SlowFast Neural Network, with the overarching goal of advancing the accuracy of Sign Language Recognition.
 
 The experimentation encompassed several critical phases, with a primary emphasis on data processing techniques and model optimisation. Various data processing methods were rigorously evaluated, taking into account the critical information’s location during sign interpretation. For each frame of every video sample, face and hand detection techniques were meticulously executed to reconstruct the input data, placing greater importance on these essential features.
 
